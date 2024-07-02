@@ -1,1 +1,1 @@
-# plex_jjnether_guide
+# User Guide for jjnether's Server
