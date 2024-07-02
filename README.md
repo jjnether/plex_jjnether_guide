@@ -9,27 +9,46 @@ The following guide is to help new and existing users have an optimal experience
 
 You should already have a Plex account setup, but this section will walk you through modifying certain account settings:
 
-- Plex rolled out a feature called [Discover Together](https://forums.plex.tv/t/discover-together-public-release/857227) that I prefer to disable.
-  You can do this by navigating to the `Account` menu in your settings and editing settings:
- 
-  ![discover](pictures/discover.gif)
+- Plex rolled out a feature called [Discover Together](https://forums.plex.tv/t/discover-together-public-release/857227) that I prefer to disable. You can do this by navigating to the `Account` menu in your settings and editing settings:
+
+  <details>
+    <summary></summary>
+    
+    ![discover](pictures/discover.gif)
+   </details>
 
 - Opt out from sending playback data to Plex by going [here](https://www.plex.tv/about/privacy-legal/privacy-preferences/#opd) and deselecting
   `Send playback data to Plex`:
 
-  ![playback](pictures/playback_data.png)
+  <details>
+    <summary></summary>
+    
+    ![playback](pictures/playback_data.png)
+  </details>
 
 - Hide other users' activity as well as paid Plex content from displaying by navigating to the `Online Media Sources` menu in your settings and disabling all options:
 
-  ![disable](pictures/disable.gif)
+  <details>
+    <summary></summary>
+
+    ![disable](pictures/disable.gif)
+  </details>
 
 - You should customize the left side menu of Plex by pinning and reordering libraries:
 
-  ![pins](pictures/pins.gif)
+  <details>
+    <summary></summary>
+
+    ![pins](pictures/pins.gif)
+</details>
 
 - Movie and TV Show themes can be enabled to play in the background while browsing that media:
 
-  ![themes](pictures/themes.gif)
+  <details>
+    <summary></summary>
+
+    ![themes](pictures/themes.gif)
+  </details>
 
 ## Playback Experience
 
@@ -46,7 +65,11 @@ You should already have a Plex account setup, but this section will walk you thr
 
     > On TV's, quality settings are sometimes found by hitting the `HD` button in the corner
 
-  ![bitrate](pictures/bitrate.gif)
+  <details>
+    <summary></summary>
+
+    ![bitrate](pictures/bitrate.gif)
+  </details>
 
 ## Requesting Media
 
@@ -66,4 +89,8 @@ You should already have a Plex account setup, but this section will walk you thr
 
 - At any time, the server status can be found pinned in the plex-peeps Discord text channel:
 
-  ![status](pictures/status.png)
+  <details>
+    <summary></summary>
+
+    ![status](pictures/status.png)
+  </details>
