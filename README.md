@@ -9,7 +9,7 @@ The following guide is to help new and existing users have an optimal experience
 
 You should already have a Plex account setup, but this section will walk you through modifying certain account settings:
 
-- Plex rolled out a feature called [Discover Together](https://forums.plex.tv/t/discover-together-public-release/857227) that I prefer to disable. You can do this by navigating to the `Account` menu in your settings and editing settings:
+1. Plex rolled out a feature called [Discover Together](https://forums.plex.tv/t/discover-together-public-release/857227) that I prefer to disable. You can do this by navigating to the `Account` menu in your settings and editing settings:
 
   <details>
     <summary></summary>
@@ -17,7 +17,7 @@ You should already have a Plex account setup, but this section will walk you thr
     ![discover](pictures/discover.gif)
    </details>
 
-- Opt out from sending playback data to Plex by going [here](https://www.plex.tv/about/privacy-legal/privacy-preferences/#opd) and deselecting
+2. Opt out from sending playback data to Plex by going [here](https://www.plex.tv/about/privacy-legal/privacy-preferences/#opd) and deselecting
   `Send playback data to Plex`:
 
   <details>
@@ -26,7 +26,7 @@ You should already have a Plex account setup, but this section will walk you thr
     ![playback](pictures/playback_data.png)
   </details>
 
-- Hide other users' activity as well as paid Plex content from displaying by navigating to the `Online Media Sources` menu in your settings and disabling all options:
+3. Hide other users' activity as well as paid Plex content from displaying by navigating to the `Online Media Sources` menu in your settings and disabling all options:
 
   <details>
     <summary></summary>
@@ -34,7 +34,7 @@ You should already have a Plex account setup, but this section will walk you thr
     ![disable](pictures/disable.gif)
   </details>
 
-- You should customize the left side menu of Plex by pinning and reordering libraries:
+4. You should customize the left side menu of Plex by pinning and reordering libraries:
 
   <details>
     <summary></summary>
@@ -42,7 +42,7 @@ You should already have a Plex account setup, but this section will walk you thr
     ![pins](pictures/pins.gif)
 </details>
 
-- Movie and TV Show themes can be enabled to play in the background while browsing that media:
+5. Movie and TV Show themes can be enabled to play in the background while browsing that media:
 
   <details>
     <summary></summary>
@@ -52,30 +52,28 @@ You should already have a Plex account setup, but this section will walk you thr
 
 ## Playback Experience
 
-- [This guide](https://mediaclients.wiki/Plex) should be followed for each device you use Plex on. Simply select the device you're setting up and follow the directions.
+1. [This guide](https://mediaclients.wiki/Plex) should be followed for each device you use Plex on. Simply select the device you're setting up and follow the directions.
 
-- If you use Plex on a computer, I highly recommend using the dedicated Plex application rather than using a web browser (this is due to video codec compatibility).
+2. If you use Plex on a computer, I highly recommend using the dedicated Plex application rather than using a web browser (this is due to video codec compatibility).
   Tthe download for the Plex application can be found [here](https://www.plex.tv/media-server-downloads/?cat=plex+desktop&plat=windows#plex-app).
 
-- If you're experiencing constant buffering, you may need to lower your current quality settings:
+3. If you're experiencing constant buffering, you may need to lower your current quality settings:
 
   > The buffering may be due to a poor connection on your end, or due to my measly apartment upload speed
-  
-  - In the media player, navigate to the quality settings and select a quality with a lower bitrate (mbps) than your current selection.
-
-    > On TV's, quality settings are sometimes found by hitting the `HD` button in the corner
 
   <details>
-    <summary></summary>
+    <summary>In the media player, navigate to the quality settings and select a quality with a lower bitrate (mbps) than your current selection:</summary>
 
-    ![bitrate](pictures/bitrate.gif)
+  ![bitrate](pictures/bitrate.gif)
   </details>
+
+  > On TV's, quality settings are sometimes found by hitting the `HD` button in the corner
 
 ## Requesting Media
 
-- The primary method of requesting media is by going to the [Overseerr page](https://overseerr.jjnether.com/) and logging in with your Plex account.
+1. The primary method of requesting media is by going to the [Overseerr page](https://overseerr.jjnether.com/) and logging in with your Plex account.
 
-- The alternate method to request media is by using Doplarr in the plex-peeps Discord text channel. Simply type one of the following into the chat:
+2. The alternate method to request media is by using Doplarr in the plex-peeps Discord text channel. Simply type one of the following into the chat:
 
   - /request movie `movie name`
 
@@ -87,7 +85,7 @@ You should already have a Plex account setup, but this section will walk you thr
 
 - Each account can only have 1 stream active at a time. This is due to my apartment having limited upload speed.
 
-- At any time, the server status can be found pinned in the plex-peeps Discord text channel:
+- At any time, the Plex server status can be found pinned in the plex-peeps Discord text channel:
 
   <details>
     <summary></summary>
