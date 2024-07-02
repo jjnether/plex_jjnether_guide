@@ -23,9 +23,13 @@ You should already have a Plex account setup, but this section will walk you thr
 
   ![disable](pictures/disable.gif)
 
-- You can customize the left side menu of Plex by pinning and reordering libraries:
+- You should customize the left side menu of Plex by pinning and reordering libraries:
 
   ![pins](pictures/pins.gif)
+
+- Movie and TV Show themes can be enabled to play while browsing that media:
+
+  ![themes](pictures/themes.gif)
 
 ## Playback Experience
 
@@ -56,7 +60,7 @@ You should already have a Plex account setup, but this section will walk you thr
  
 ## Notes
 
-- Unless I mark them to keep, movies will be deleted from the server after 3 months of being added. The last month before removal, the movie will be added to a "Leaving Soon" collection you should see on your Plex home.
+- Unless I mark them to keep, movies will be deleted from the server after 3 months of being added. The last month before removal, the movie will be added to a `Leaving Soon` collection on your Plex home.
 
 - Each account can only have 1 stream active at a time. This is due to my apartment having limited upload speed.
 
