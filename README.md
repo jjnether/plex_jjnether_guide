@@ -53,3 +53,13 @@ You should already have a Plex account setup, but this section will walk you thr
   - /request movie `movie name`
 
   - /request series `series name`
+ 
+## Notes
+
+- Unless I mark them to keep, movies will be deleted from the server after 3 months of being added. The last month before removal, the movie will be added to a "Leaving Soon" collection you should see on your Plex home.
+
+- Each account can only have 1 stream active at a time. This is due to my apartment having limited upload speed.
+
+- At any time, the server status can be found pinned in the plex-peeps Discord text channel:
+
+  ![status](pictures/status.png)
