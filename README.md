@@ -21,4 +21,8 @@ You should already have a Plex account setup, but this section will walk you thr
 
 - Hide other users' activity as well as paid Plex content from displaying by navigating to the `Online Media Sources` menu in your settings and disabling all options:
 
-  
+  ![disable](pictures/disable.gif)
+
+- You can customize the left side menu of Plex by pinning and reordering libraries:
+
+  ![pins](pictures/pins.gif)
