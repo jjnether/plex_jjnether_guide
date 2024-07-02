@@ -14,7 +14,7 @@ You should already have a Plex account setup, but this section will walk you thr
   <details>
     <summary></summary>
     
-    ![discover](pictures/discover.gif)
+  ![discover](pictures/discover.gif)
    </details>
 
 2. Opt out from sending playback data to Plex by going [here](https://www.plex.tv/about/privacy-legal/privacy-preferences/#opd) and deselecting
@@ -23,7 +23,7 @@ You should already have a Plex account setup, but this section will walk you thr
   <details>
     <summary></summary>
     
-    ![playback](pictures/playback_data.png)
+  ![playback](pictures/playback_data.png)
   </details>
 
 3. Hide other users' activity as well as paid Plex content from displaying by navigating to the `Online Media Sources` menu in your settings and disabling all options:
@@ -31,7 +31,7 @@ You should already have a Plex account setup, but this section will walk you thr
   <details>
     <summary></summary>
 
-    ![disable](pictures/disable.gif)
+   ![disable](pictures/disable.gif)
   </details>
 
 4. You should customize the left side menu of Plex by pinning and reordering libraries:
@@ -39,7 +39,7 @@ You should already have a Plex account setup, but this section will walk you thr
   <details>
     <summary></summary>
 
-    ![pins](pictures/pins.gif)
+   ![pins](pictures/pins.gif)
 </details>
 
 5. Movie and TV Show themes can be enabled to play in the background while browsing that media:
@@ -47,7 +47,7 @@ You should already have a Plex account setup, but this section will walk you thr
   <details>
     <summary></summary>
 
-    ![themes](pictures/themes.gif)
+  ![themes](pictures/themes.gif)
   </details>
 
 ## Playback Experience
