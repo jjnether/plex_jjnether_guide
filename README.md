@@ -75,9 +75,9 @@ You should already have a Plex account setup, but this section will walk you thr
 
 2. The alternate method to request media is by using Doplarr in the plex-peeps Discord text channel. Simply type one of the following into the chat:
 
-  - /request movie `movie name`
+    - /request movie `movie name`
 
-  - /request series `series name`
+    - /request series `series name`
  
 ## Notes
 
