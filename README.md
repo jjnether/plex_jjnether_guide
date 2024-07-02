@@ -27,7 +27,7 @@ You should already have a Plex account setup, but this section will walk you thr
 
   ![pins](pictures/pins.gif)
 
-- Movie and TV Show themes can be enabled to play while browsing that media:
+- Movie and TV Show themes can be enabled to play in the background while browsing that media:
 
   ![themes](pictures/themes.gif)
 
