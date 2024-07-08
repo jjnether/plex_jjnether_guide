@@ -11,44 +11,44 @@ You should already have a Plex account setup, but this section will walk you thr
 
 1. Plex rolled out a feature called [Discover Together](https://forums.plex.tv/t/discover-together-public-release/857227) that I prefer to disable. You can do this by navigating to the `Account` menu in your settings and editing settings:
 
-  <details>
-    <summary></summary>
-    
-  ![discover](pictures/discover.gif)
-   </details>
+      <details>
+        <summary></summary>
+        
+      ![discover](pictures/discover.gif)
+       </details>
 
 2. Opt out from sending playback data to Plex by going [here](https://www.plex.tv/about/privacy-legal/privacy-preferences/#opd) and deselecting
   `Send playback data to Plex`:
 
-  <details>
-    <summary></summary>
-    
-  ![playback](pictures/playback_data.png)
-  </details>
+      <details>
+        <summary></summary>
+        
+      ![playback](pictures/playback_data.png)
+      </details>
 
 3. Hide other users' activity as well as paid Plex content from displaying by navigating to the `Online Media Sources` menu in your settings and disabling all options:
 
-  <details>
-    <summary></summary>
-
-   ![disable](pictures/disable.gif)
-  </details>
+      <details>
+        <summary></summary>
+    
+       ![disable](pictures/disable.gif)
+      </details>
 
 4. You should customize the left side menu of Plex by pinning and reordering libraries:
 
-  <details>
-    <summary></summary>
-
-   ![pins](pictures/pins.gif)
-</details>
+      <details>
+        <summary></summary>
+    
+       ![pins](pictures/pins.gif)
+      </details>
 
 5. Movie and TV Show themes can be enabled to play in the background while browsing that media:
 
-  <details>
-    <summary></summary>
-
-  ![themes](pictures/themes.gif)
-  </details>
+      <details>
+        <summary></summary>
+    
+      ![themes](pictures/themes.gif)
+      </details>
 
 ## Playback Experience
 
@@ -59,15 +59,15 @@ You should already have a Plex account setup, but this section will walk you thr
 
 3. If you're experiencing constant buffering, you may need to lower your current quality settings:
 
-  > The buffering may be due to a poor connection on your end, or due to my measly apartment upload speed
+      <details>
+        <summary>In the media player, navigate to the quality settings and select a quality with a lower bitrate (mbps) than your current selection:</summary>
+    
+      ![bitrate](pictures/bitrate.gif)
+      </details>
 
-  <details>
-    <summary>In the media player, navigate to the quality settings and select a quality with a lower bitrate (mbps) than your current selection:</summary>
+  > On TV's, quality settings are sometimes found by hitting the `HD` button in the corner.
 
-  ![bitrate](pictures/bitrate.gif)
-  </details>
-
-  > On TV's, quality settings are sometimes found by hitting the `HD` button in the corner
+  > The buffering may be due to a poor connection on your end, or due to my poor apartment upload speed
 
 ## Requesting Media
 
@@ -88,7 +88,7 @@ You should already have a Plex account setup, but this section will walk you thr
 - At any time, the Plex server status can be found pinned in the plex-peeps Discord text channel:
 
   <details>
-    <summary></summary>
-
-    ![status](pictures/status.png)
+      <summary></summary>
+    
+  ![status](pictures/status.png)
   </details>
