@@ -73,7 +73,7 @@ You should already have a Plex account setup, but this section will walk you thr
 
 1. The primary method of requesting media is by going to the [Overseerr page](https://overseerr.jjnether.com/) and logging in with your Plex account.
 
-2. The alternate method to request media is by using Doplarr in the plex-peeps Discord text channel. Simply type one of the following into the chat:
+2. The alternate method to request media is by using Doplarr in the `plex-peeps` Discord text channel. Simply type one of the following into the chat:
 
     - /request movie `movie name`
 
