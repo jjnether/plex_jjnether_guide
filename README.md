@@ -85,7 +85,7 @@ You should already have a Plex account setup, but this section will walk you thr
 
 - Each account can only have 1 stream active at a time. This is due to my apartment having limited upload speed.
 
-- At any time, the Plex server status can be found pinned in the plex-peeps Discord text channel:
+- At any time, the Plex server status can be found pinned in the `plex-peeps` Discord text channel:
 
   <details>
       <summary></summary>
