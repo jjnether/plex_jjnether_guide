@@ -9,7 +9,7 @@ The following guide is to help new and existing users have an optimal experience
 
 You should already have a Plex account setup, but this section will walk you through modifying certain account settings:
 
-1. Plex rolled out a feature called [Discover Together](https://forums.plex.tv/t/discover-together-public-release/857227) that I prefer to disable. You can do this by navigating to the `Account` menu in your settings and editing settings:
+1. Plex rolled out a feature called [Discover Together](https://forums.plex.tv/t/discover-together-public-release/857227) that I prefer to disable. You can do this by navigating to the `Account` menu and editing settings:
 
       <details>
         <summary></summary>
