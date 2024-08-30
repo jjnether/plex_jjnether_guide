@@ -31,7 +31,7 @@ You should already have a Plex account setup, but this section will walk you thr
       <details>
         <summary></summary>
     
-       ![disable](pictures/disable.gif)
+      ![disable](pictures/disable.gif)
       </details>
 
 4. You should customize the left side menu of Plex by pinning and reordering libraries:
@@ -39,7 +39,7 @@ You should already have a Plex account setup, but this section will walk you thr
       <details>
         <summary></summary>
     
-       ![pins](pictures/pins.gif)
+      ![pins](pictures/pins.gif)
       </details>
 
 5. Movie and TV Show themes can be enabled to play in the background while browsing that media:
