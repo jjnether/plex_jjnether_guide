@@ -26,7 +26,7 @@ You should already have a Plex account setup, but this section will walk you thr
       ![playback](pictures/playback_data.png)
       </details>
 
-3. Hide other users' activity as well as paid Plex content from displaying by navigating to the `Online Media Sources` menu in your settings and disabling all options:
+3. Hide other users' activity as well as paid Plex content by navigating to the `Online Media Sources` menu in your settings and disabling all options:
 
       <details>
         <summary></summary>
