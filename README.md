@@ -55,7 +55,7 @@ You should already have a Plex account setup, but this section will walk you thr
 1. [This guide](https://mediaclients.wiki/Plex) should be followed for each device you use Plex on. Simply select the device you're setting up and follow the directions.
 
 2. If you use Plex on a computer, I highly recommend using the dedicated Plex application rather than using a web browser (this is due to video codec compatibility).
-  Tthe download for the Plex application can be found [here](https://www.plex.tv/media-server-downloads/?cat=plex+desktop&plat=windows#plex-app).
+  The download for the Plex application can be found [here](https://www.plex.tv/media-server-downloads/?cat=plex+desktop&plat=windows#plex-app).
 
 3. If you're experiencing constant buffering, you may need to lower your current quality settings:
 
