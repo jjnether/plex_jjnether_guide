@@ -85,4 +85,5 @@ You should already have a Plex account setup, but this section will walk you thr
 
 - Each account can only have 1 stream active at a time. This is due to my apartment having limited upload speed.
 
-- At any time, the Plex server status can be found at [this link](https://uptime-kuma.jjnether.com/status/plex) (also pinned in the Discord channel)
+- At any time, the Plex server status can be seen below or found at [this link](https://uptime-kuma.jjnether.com/status/plex) (also pinned in the Discord channel)
+https://uptime-kuma.jjnether.com/api/badge/1/status?style=for-the-badge
